@@ -6,4 +6,3 @@ Flask
 seaborn #Seaborn is a Python data visualization library based on matplotlib.
 scikit-learn
 Gunicorn
--e .
